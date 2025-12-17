@@ -3,7 +3,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif">
 
 - 🌱 I’m currently learning **Data Science**
 
